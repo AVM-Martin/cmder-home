@@ -1,0 +1,9 @@
+CMder.exe
+icons/
+LICENSE
+vendor/
+
+# special
+AVM_HOME/.gnupg/
+config/.history
+config/user-ConEmu.xml
