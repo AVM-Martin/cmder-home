@@ -1,2 +1,8 @@
+[user]
+	name = AVM.Martin
+	email = avmm.martin+github@gmail.com
+[color]
+	ui = auto
 [core]
+	eol = lf
 	autocrlf = false

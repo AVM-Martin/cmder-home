@@ -7,3 +7,6 @@ vendor/
 AVM_HOME/.gnupg/
 config/.history
 config/user-ConEmu.xml
+
+# do not ignore this setting file
+!vendor/conemu-maximus5/ConEmu.xml
