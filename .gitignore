@@ -5,8 +5,8 @@ vendor/
 
 # special
 AVM_HOME/.gnupg/
+AVM_HOME/.viminfo
 config/.history
-config/.viminfo
 config/user-ConEmu.xml
 
 # do not ignore this setting file
